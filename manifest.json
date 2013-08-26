@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "Yammer Open Networks",
+	"version": "1.0",
+	"description": "Open Yammer's Networks.",
+	"icons": {
+		"16": "y32x32.png",
+		"48": "y32x32.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["https://www.yammer.com/*"],
+			"js": ["script.js"],
+			"run_at": "document_end"
+		}
+	]
+}
