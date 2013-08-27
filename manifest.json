@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Yammer Open Networks",
+	"name": "Better Yammer",
 	"version": "1.0",
-	"description": "Open Yammer's Networks.",
+	"description": "Better Yammer",
 	"icons": {
 		"16": "y32x32.png",
 		"48": "y32x32.png"
