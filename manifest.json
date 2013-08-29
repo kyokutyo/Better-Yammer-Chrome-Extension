@@ -10,7 +10,9 @@
 	"content_scripts": [
 		{
 			"matches": ["https://www.yammer.com/*"],
-			"css": ["css/better.css"]
+			"js": ["js/script.js"],
+			"css": ["css/better.css"],
+			"run_at": "document_end"
 		}
 	]
 }
