@@ -1,5 +1,5 @@
 (function() {
-    'use strict';
+    "use strict";
 
     /**
      * Skip "Add colleagues and start collaborating"
