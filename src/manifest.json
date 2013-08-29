@@ -1,11 +1,12 @@
 {
 	"manifest_version": 2,
 	"name": "Better Yammer",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Better Yammer",
 	"icons": {
-		"16": "y32x32.png",
-		"48": "y32x32.png"
+		"16": "y16x16.png",
+		"48": "y48x48.png",
+		"128": "y128x128.png"
 	},
 	"content_scripts": [
 		{
