@@ -15,6 +15,7 @@ body .two-column-layout {
     padding-left: 200px;
     width: 100%;
     .column-two-left {
+      min-width: 500px;
       padding-right: 500px;
       width: auto;
     }
